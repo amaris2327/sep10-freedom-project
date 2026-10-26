@@ -1,5 +1,5 @@
 # Content
-Topic: **X**
+Topic: **Aristry**
 
 ## Overview/Introduction/Context
 * Text
@@ -8,9 +8,9 @@ Topic: **X**
 ## Part A: existing technology
 
 ##### Software
-* Tech
-  * Detail
-  * [image text](image URL)
+* Piskel
+  * Piskel allows you to make pixel art with a wide array of different tools.
+  * [The website's logo](Piskel.png)
 
 ##### Hardware
 * Tech
