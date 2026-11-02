@@ -15,9 +15,9 @@ Topic: **Aristry**
   * [The website itself](https://www.piskelapp.com/p/create/sprite/)
 
 ##### Hardware
-* Tech
-  * Detail
-  * [image text](image URL)
+* Drawing tablets
+  * It looks like this is the closest we'll ever get to physical technological art. Yes, we all
+  * [A Drawing tablet in its purest form](images.jpeg)
 
 ## Part B: possible future technology
 * Idea
