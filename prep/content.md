@@ -13,7 +13,7 @@ Topic: **Aristry**
   * Important: AI cannot be used in this website, you have to do everything yourself.
   * It runs on basically everything you can think of so you don't have to worry about being excluded from it.
   * [The website itself](https://www.piskelapp.com/p/create/sprite/)
-  * [The website's logo] (https://i.redd.it/nto10szs2mwc1.png)
+  * [The website's logo](https://i.redd.it/nto10szs2mwc1.png)
 ##### Hardware
 * Drawing tablets
   * It looks like this is the closest we'll ever get to physical technological art. Yes, we all know what a drawing tablet is, but right now we're not advanced yet for other types of digital art that isn't purely digital.
