@@ -8,7 +8,7 @@ Topic: **Aristry**
 ## Part A: existing technology
 
 ##### Software
-** Personal
+# Personal
 * Piskel
   * Piskel allows you to make pixel art with a wide array of different tools. You can then save these drawings to your computer and upload them to different places.
   * Important: AI cannot be used in this website, you have to do everything yourself.
